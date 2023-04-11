@@ -1,4 +1,4 @@
-## 💻 Algoritmos e Estrutura de Dados II
+## 💻 Algorithms and Data Structures II
 
 This is the repository of the discipline Algorithms and Data Structures II, offered by the Department of Computer Engineering and Automation (DCA) of the Technology Center (CT) of the Federal University of Rio Grande do Norte ([UFRN](https://ufrn.br/)). Its purpose is to store and show the activities developed during the course.
 
