@@ -16,3 +16,5 @@ This is the repository of the discipline Algorithms and Data Structures II, offe
    
    ### [Week 03:](https://github.com/mairabrito/data_structure_ii/tree/main/lessons/week_03)
    🔗[Code_Interview_Linked_Queue_Stacks](https://github.com/mairabrito/data_structure_ii/blob/main/lessons/week_03/Code_Interview_Linked_Queue_Stacks.ipynb)
+           
+   🔗 [Video loow](https://www.loom.com/share/80b9bd0130d340c8bba71075267de1b9)
