@@ -23,3 +23,7 @@ This is the repository of the discipline Algorithms and Data Structures II, offe
    🔗[Code_Interview_recursion](https://github.com/mairabrito/data_structure_ii/blob/main/lessons/week_04/Code_Interview_recursion.ipynb)
    
    🔗 [Video loow](https://www.loom.com/share/31feb679afd94e6d871575c12200a606)
+
+  ### [Week 06:](https://github.com/mairabrito/data_structure_ii/tree/main/lessons/week_04)
+  🔗[bst](https://github.com/mairabrito/data_structure_ii/blob/main/lessons/week_06/Week_06_bst.ipynb)
+  🔗 [Certificate](https://github.com/mairabrito/data_structure_ii/blob/main/lessons/week_06/Introduction_to_algorithms.pdf) Introduction to Algorithms
