@@ -3,7 +3,7 @@
 This is the repository of the discipline Algorithms and Data Structures II, offered by the Department of Computer Engineering and Automation (DCA) of the Technology Center (CT) of the Federal University of Rio Grande do Norte ([UFRN](https://ufrn.br/)). Its purpose is to store and show the activities developed during the course.
 
 #### Week 01
-   > 🔗 [Certificate](https://github.com/mairabrito/data_structure_ii/blob/main/lessons/week_01/Introduction-to-Git-and-Version-Control.pdf) Introduction to Git-and-Version Control
+   > 🔗 [![](https://img.shields.io/badge/certificate-dataquest-blueviolet)](https://github.com/mairabrito/data_structure_ii/blob/main/lessons/week_01/Introduction-to-Git-and-Version-Control.pdf) Introduction to Git-and-Version Control
   
   > 🔗 [Certificate](https://github.com/mairabrito/data_structure_ii/blob/main/lessons/week_01/Introduction-to-Python-for-Data-Engineering.pdf) Introduction to Python for Data Engineering
   
