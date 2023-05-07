@@ -28,3 +28,8 @@ This is the repository of the discipline Algorithms and Data Structures II, offe
   🔗[bst](https://github.com/mairabrito/data_structure_ii/blob/main/lessons/week_06/Week_06_bst.ipynb)
   
   🔗 [Certificate](https://github.com/mairabrito/data_structure_ii/blob/main/lessons/week_06/Introduction_to_algorithms.pdf) Introduction to Algorithms
+
+  ### [Week 07:](https://github.com/mairabrito/data_structure_ii/tree/main/lessons/week_07)
+  
+  ### [Week 08:](https://github.com/mairabrito/data_structure_ii/tree/main/lessons/week_04)
+  🔗[Exercise](https://github.com/mairabrito/data_structure_ii/blob/main/lessons/week_08/exercise.ipynb)
