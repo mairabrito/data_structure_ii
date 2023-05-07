@@ -11,9 +11,9 @@ This is the repository of the discipline Algorithms and Data Structures II, offe
 **Week 02**
   - [![](https://img.shields.io/badge/certificate-dataquest-blueviolet)](https://github.com/mairabrito/data_structure_ii/blob/main/lessons/week_02/Dictionaries-and-Functions-in-Python.pdf) Dictionaries and Functions in Python
    
- - [Projeto Guiado:](https://github.com/mairabrito/data_structure_ii/blob/main/lessons/week_02/analise_dados_aplicativos_moveis.ipynb)  Perfis de Aplicativos Lucrativos para App Store e Google Play Markets
+ - [![](https://img.shields.io/badge/Notebook-613e27)](https://github.com/mairabrito/data_structure_ii/blob/main/lessons/week_02/analise_dados_aplicativos_moveis.ipynb)  Projeto Guiado: Perfis de Aplicativos Lucrativos para App Store e Google Play Markets
    
- - [Projeto Guiado:](https://github.com/mairabrito/data_structure_ii/blob/main/lessons/week_02/analise_dados_aplicativos_moveis_refatorado.ipynb)  Perfis de Aplicativos Lucrativos para App Store e Google Play Markets - Refactored
+ - [![](https://img.shields.io/badge/Notebook-613e27)](https://github.com/mairabrito/data_structure_ii/blob/main/lessons/week_02/analise_dados_aplicativos_moveis_refatorado.ipynb)  Projeto Guiado: Perfis de Aplicativos Lucrativos para App Store e Google Play Markets - Refactored
    
  **Week 03**
  - [![](https://img.shields.io/badge/Notebook-613e27)](https://github.com/mairabrito/data_structure_ii/blob/main/lessons/week_03/Code_Interview_Linked_Queue_Stacks.ipynb) Code_Interview_Linked_Queue_Stacks
