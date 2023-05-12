@@ -18,12 +18,13 @@ This is the repository of the discipline Algorithms and Data Structures II, offe
  **Week 03**
  - [![](https://img.shields.io/badge/Notebook-613e27)](https://github.com/mairabrito/data_structure_ii/blob/main/lessons/week_03/Code_Interview_Linked_Queue_Stacks.ipynb) Code_Interview_Linked_Queue_Stacks
 
- - [Video loow](https://www.loom.com/share/80b9bd0130d340c8bba71075267de1b9)
+ - [Description: look](https://www.loom.com/share/80b9bd0130d340c8bba71075267de1b9)
 
  **Week 04**
 - [![](https://img.shields.io/badge/Notebook-613e27)](https://github.com/mairabrito/data_structure_ii/blob/main/lessons/week_04/Code_Interview_recursion.ipynb) Code_Interview_recursion
 
-- [Video loow](https://www.loom.com/share/31feb679afd94e6d871575c12200a606)
+- [Description: ](https://www.loom.com/share/31feb679afd94e6d871575c12200a606)
+-  <div><img widt="20px" height="20px" href="https://www.loom.com/share/31feb679afd94e6d871575c12200a606" src="https://images.ctfassets.net/m1px4cv57vle/5fltV32zA2DkDUAz2R2fyW/1ac242125d30c87c6a23e564fc49599a/Twitter_avatar__1_.jpg.png"/> </di>
 
 **Week 06**
 - [![](https://img.shields.io/badge/Notebook-613e27)](https://github.com/mairabrito/data_structure_ii/blob/main/lessons/week_06/Week_06_bst.ipynb) bst
