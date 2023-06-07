@@ -11,4 +11,4 @@ Link da resolução da semana 09: notebook
 
 Descobertas: está descrito no próprio notebook
 
-[![](https://img.shields.io/badge/Vídeo_Explicativo_(loom)-4c4e52)](https://www.loom.com/share/e33eb69a527341aa827aeec6d0160899)
+[![](https://img.shields.io/badge/Vídeo_Explicativo_-loom-4b4157)](https://www.loom.com/share/e33eb69a527341aa827aeec6d0160899)
