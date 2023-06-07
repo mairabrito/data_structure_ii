@@ -18,12 +18,12 @@ This is the repository of the discipline Algorithms and Data Structures II, offe
  **Week 03**
  - [![](https://img.shields.io/badge/Notebook-613e27)](https://github.com/mairabrito/data_structure_ii/blob/main/lessons/week_03/Code_Interview_Linked_Queue_Stacks.ipynb) Code_Interview_Linked_Queue_Stacks
 
- - [Description (loom)](https://www.loom.com/share/80b9bd0130d340c8bba71075267de1b9)
+ - [![](https://img.shields.io/badge/Description(loom)-4c4e52)](https://www.loom.com/share/80b9bd0130d340c8bba71075267de1b9)
 
  **Week 04**
 - [![](https://img.shields.io/badge/Notebook-613e27)](https://github.com/mairabrito/data_structure_ii/blob/main/lessons/week_04/Code_Interview_recursion.ipynb) Code_Interview_recursion
 
-- [Description (loom)](https://www.loom.com/share/31feb679afd94e6d871575c12200a606)
+- [![](https://img.shields.io/badge/Description(loom)-4c4e52)](https://www.loom.com/share/31feb679afd94e6d871575c12200a606)
 
 **Week 05-06**
 - [![](https://img.shields.io/badge/Notebook-613e27)](https://github.com/mairabrito/data_structure_ii/blob/main/lessons/week_06/Week_06_bst.ipynb) bst
