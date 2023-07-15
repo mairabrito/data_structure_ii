@@ -38,3 +38,9 @@ This is the repository of the discipline Algorithms and Data Structures II, offe
 
 **Week 09**
 - [![](https://img.shields.io/badge/Folder-68446e)](https://github.com/mairabrito/data_structure_ii/tree/main/lessons/week_09)
+
+**Week 11-12**
+- [![](https://img.shields.io/badge/Folder-68446e)](https://github.com/mairabrito/data_structure_ii/tree/main/lessons/week_11_12) Wikipedia
+
+**Week 13**
+- [![](https://img.shields.io/badge/Folder-68446e)](https://github.com/mairabrito/data_structure_ii/tree/main/lessons/week_13) Wikipedia Network View
