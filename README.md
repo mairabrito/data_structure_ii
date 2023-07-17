@@ -37,7 +37,7 @@ This is the repository of the discipline Algorithms and Data Structures II, offe
 - [![](https://img.shields.io/badge/Notebook-613e27)](https://github.com/mairabrito/data_structure_ii/blob/main/lessons/week_08/exercise.ipynb) Review week 07- Exercise
 
 **Week 09**
-- [![](https://img.shields.io/badge/Folder-68446e)](https://github.com/mairabrito/data_structure_ii/tree/main/lessons/week_09)
+- [![](https://img.shields.io/badge/Folder-68446e)](https://github.com/mairabrito/data_structure_ii/tree/main/lessons/week_09) Estudo com base de dados da Agência Nacional de Aviação (ANAC)
 
 **Week 11-12**
 - [![](https://img.shields.io/badge/Folder-68446e)](https://github.com/mairabrito/data_structure_ii/tree/main/lessons/week_11_12) Wikipedia
