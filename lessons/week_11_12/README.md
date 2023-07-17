@@ -1,4 +1,4 @@
-# Wikipedia Network
+# Wikipedia
 
 ### Group: 
 - José Augusto Agripino de Oliveira
