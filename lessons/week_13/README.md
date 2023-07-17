@@ -34,4 +34,4 @@ To deploy this network, two tools were used, considering the benefits of both vi
 
 A seguir está um vídeo no Loom explicando como foi construída e disponibilizada as visuzalizações acima:
 
-https://www.loom.com/share/70992389fe3240299d249e00a84681a5?sid=fb279f7b-f6f4-42dd-a65a-e1ee735afb26
+[![](https://img.shields.io/badge/Vídeo_Explicativo_-loom-4b4157)](https://www.loom.com/share/70992389fe3240299d249e00a84681a5?sid=fb279f7b-f6f4-42dd-a65a-e1ee735afb26)
